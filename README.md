@@ -1,2 +1,2 @@
-# UASBIG_WebSite-JS
+# UASBIG_WebSite
 Website for UASBIG
