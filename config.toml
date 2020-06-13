@@ -1,0 +1,20 @@
+BaseUrl= ""
+LanguageCode= "en-US"
+Title= "Bucephalus"
+paginate = 5
+
+
+Copyright = "All rights reserved - 2020"
+canonifyurls = true
+
+[author]
+  name = "Xhuliano Brace"
+
+[params]
+  description = "A Decentralized Research Group"
+  cover = "images/user.jpg"
+  author = "Xhuliano"
+  
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]
