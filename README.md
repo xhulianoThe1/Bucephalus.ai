@@ -1,2 +1,3 @@
-# UASBIG_WebSite
-Website for UASBIG
+# Bucephalus Website
+
+* Brew install [hugo]
