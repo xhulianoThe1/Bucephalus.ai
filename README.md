@@ -4,4 +4,4 @@
 * Brew install [hugo]
 * Run [hugo server]
 
-# Visit Bucephalusai.com
+# Visit https://bucephalusai.com/
