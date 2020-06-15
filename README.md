@@ -1,7 +1,9 @@
 # Bucephalus AI Website
 
-# Running
-* Brew install ``hugo
-* Run ``hugo server
+## Visit https://bucephalusai.com/
 
-# Visit https://bucephalusai.com/
+### Running
+* Brew `install hugo`
+* Run `hugo server`
+
+
