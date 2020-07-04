@@ -1,0 +1,17 @@
+{{partial "header.html" .}}
+{{if .Site.Params.cover}}
+<header class="main-header " style="background-image: url({{.Site.BaseURL}}{{.Site.Params.cover}})">
+{{else}}
+<header class="main-header no-cover">
+{{end}}
+    <nav class="main-nav overlay clearfix">
+    </nav>
+<div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">
+              <a class="btn-bootstrap-2 title-scroll" href="#content">{{ .Site.Title }}</a>
+          </h1>
+        </div>
+</header>
+
+{{ partial "footer.html" . }}
